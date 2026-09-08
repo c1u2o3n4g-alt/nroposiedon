@@ -7,9 +7,9 @@
     "message": "",
     "expiresAt": "2026-10-08T01:49:56.4945113+00:00",
     "graceUntil": "2026-10-09T01:49:56.4945113+00:00",
-    "activeRelease": "2026.09.08.0149",
+    "activeRelease": "2026.09.08.0637",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1788832638195,
-    "updatedAt": "2026-09-08T01:57:18.1955716+00:00"
+    "revision": 1788849859163,
+    "updatedAt": "2026-09-08T06:44:19.1635758+00:00"
 }
