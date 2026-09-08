@@ -3,13 +3,13 @@
     "modId": "22fe9e7b-6e1b-4f41-8dc5-7f994d6352db",
     "companyName": "NROPOSIEDON",
     "displayName": "NRO POSEIDON",
-    "status": "maintenance",
-    "message": "WebGL release đầu tiên đang được chuẩn bị.",
+    "status": "active",
+    "message": "",
     "expiresAt": "2026-10-08T01:49:56.4945113+00:00",
     "graceUntil": "2026-10-09T01:49:56.4945113+00:00",
-    "activeRelease": "",
+    "activeRelease": "2026.09.08.0149",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1788832269718,
-    "updatedAt": "2026-09-08T01:51:09.7199204+00:00"
+    "revision": 1788832638195,
+    "updatedAt": "2026-09-08T01:57:18.1955716+00:00"
 }
