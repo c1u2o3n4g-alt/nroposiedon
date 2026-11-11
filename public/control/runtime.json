@@ -1,15 +1,15 @@
 {
-  "schemaVersion": 1,
-  "modId": "22fe9e7b-6e1b-4f41-8dc5-7f994d6352db",
-  "companyName": "NROPOSIEDON",
-  "displayName": "NRO POSEIDON",
-  "status": "expired",
-  "message": "WebGL đã hết hạn sử dụng.",
-  "expiresAt": "2026-11-08T01:49:56.4945113+00:00",
-  "graceUntil": "2026-11-09T01:49:56.4945113+00:00",
-  "activeRelease": "2026.09.08.0637",
-  "minimumClientVersion": "",
-  "forceReload": false,
-  "revision": 1794193303341,
-  "updatedAt": "2026-11-09T03:01:43.341519Z"
+    "schemaVersion": 1,
+    "modId": "22fe9e7b-6e1b-4f41-8dc5-7f994d6352db",
+    "companyName": "NROPOSIEDON",
+    "displayName": "NRO POSEIDON",
+    "status": "active",
+    "message": "",
+    "expiresAt": "2027-11-08T01:49:56.4945113+00:00",
+    "graceUntil": "2027-11-09T01:49:56.4945113+00:00",
+    "activeRelease": "2026.09.08.0637",
+    "minimumClientVersion": "",
+    "forceReload": false,
+    "revision": 1794412994865,
+    "updatedAt": "2026-11-11T16:03:14.8650245+00:00"
 }
